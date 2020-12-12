@@ -1,0 +1,9 @@
+I used Matplotlib, Seaborn, go. ast, pandas
+ import ast
+ matplotlib.pyplot 
+ plotly.express as px
+ plotly.graph_objects as go
+ seaborn as sns
+ pandas_profiling 
+ ProfileReport
+ plotly.offline, download_plotlyjs, init_notebook_mode, plot, iplot
