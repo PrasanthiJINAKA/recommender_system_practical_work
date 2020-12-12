@@ -1,0 +1,9 @@
+pandas  and  version 1.1.15
+numpy as np and version 1.19.2           
+ast version  1.03
+matplotlib.pyplot and version  1.0.4
+plotly.express
+plotly.graph_objects as go
+seaborn as sns
+from pandas_profiling import ProfileReport
+from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
